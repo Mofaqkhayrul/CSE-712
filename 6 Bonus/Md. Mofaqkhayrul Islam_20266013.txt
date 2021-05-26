@@ -1,4 +1,4 @@
-Course 1: Natural Language Processing for Executives and Top-Level Managers
+Course 1: Executive Briefing: Natural Language Processing 
 Topics Covered:
 1. NLP;
 2. Application of NLP;
