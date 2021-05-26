@@ -1,0 +1,16 @@
+Course 1: Natural Language Processing for Executives and Top-Level Managers
+Topics Covered:
+1. NLP;
+2. Application of NLP;
+3. Use Cases.
+
+Course 2: Natural Language Processing for Executives and Top-Level Managers
+Topics Covered:
+1. NLTK;
+2. Tokenization, Tagging, Chunking;
+3. Projects:
+	i) Sentiment Analysis;
+	ii) Gender Prediction;
+	iii) TF-IDF.
+
+
